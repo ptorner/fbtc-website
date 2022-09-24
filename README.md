@@ -1,3 +1,3 @@
-# venor_website
+# fbtc website
 
 Framework is based on http://getskeleton.com/
